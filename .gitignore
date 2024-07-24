@@ -1,0 +1,18 @@
+# Virtual Environment
+screen_recorder_env/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Output files
+*.mp4
+*.jpg
+recording_data.json
+
+# VS Code settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
